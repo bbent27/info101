@@ -83,6 +83,10 @@ mean(twilight_temps_long)
 
 # P9 Compare and contrast your solutions to P8 and P9.
 #I got the same answer for both P7 and P8!
+# P8 was a lot easier to code for, and easier to read. When looking at P7 it's
+#hard to tell what we are coding for and pulling out, but when you look at P8,
+#you can see the depth boundaries we are looking at (rather than just seeing the
+#different column numbers which don't actually tell us any info about the data)
 
 
 # P10 Create a variable called mariana_temps. Filter woa_long to the rows in the

@@ -3,11 +3,11 @@ rovs <- data.frame(
   model = c("Chasing M2 Pro", "Qysea Fifish Pro V6", "BlueROV2"),
   price_usd = c(3459, 2999, 6500)
 )
-rovs[1, ]
+rovs[, 1]
 
 
-rovs$"Chasing M2 Pro"
-# ^the one with "$" gives me NULL as an answer. not sure what im doing wrong - ?
+rovs$model
+
 
 
 # Pull out the model column from rovs using both square bracket and dollar sign
